@@ -1,4 +1,5 @@
-> 提醒： 滥用可能导致账户被BAN！！！ ## 已废弃...有BUG ## 
+> 提醒： 滥用可能导致账户被BAN！！！ 
+## 已废弃...有BUG
 ## 概述
 
 用于在 Heroku 上部署 vless+websocket+tls，每次部署自动选择最新的 alpine linux 和 v2ray core 。  
