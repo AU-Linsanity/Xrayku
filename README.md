@@ -21,7 +21,7 @@ vless 性能更加优秀，占用资源更少。
   
 ### 客户端
 * **务必替换所有的appname.herokuapp.com为heroku分配的项目域名**  
-* **务必替换所有的190190f5-d88c-48da-85b7-797bc3d9399f为部署时设置的AUUID**  
+* **务必替换所有的190190f5-d88c-48da-85b7-797bc3d9399f为部署时设置的AUUID,建议更改,不要每个人都一样**  
   
 <details>
 <summary>xray</summary>
